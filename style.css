@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(5, 86, 133);
+}
+.bg-light {
+    /* background-color: rgb(228, 162, 131) !important; */
+    background-color: rgb(39, 121, 168)!important;
+}
+
+#seguro {
+    max-width: 1000%;
+    max-height: 1000%;
+    height: 400px;
+    width: 700px;
+    border-radius: 5%;  
+    border: 2px solid rgb(5, 86, 133);
+}
+
+#choto img {
+    width: 10%;
+    border-radius: 5%;
+    /*background-color: rgb(250, 83, 6);*/
+    background-color: rgb(5, 86, 133);
+}
+
+.container {
+    text-align: center;
+    text-decoration: solid;
+    
+}
+.form-check{
+    text-align: justify;
+     /*color:rgb(153, 63, 21) */
+     color: rgb(5, 86, 133);
+}
+
+h2 {
+    text-align: center;
+}
+
+h1{
+    color: rgb(5, 86, 133) ;
+}
+
+p {
+    color: black;
+    text-align: justify;
+}
+.form-group {
+    text-align: left;
+}
+   
+a {
+    color: black;
+    align-content: left;
+}
+
+#direccion {
+    color: rgb(5, 86, 133) !important;
+    text-align: center;
+}
+
+.col-sm-6 {
+    color: rgb(5, 86, 133);
+   
+}
+#copy {
+    color: black;
+    text-align: center;
+}
+.btn-primary {
+    /*background-color: rgb(243, 123, 67) !important;*/
+    background-color: rgb(39, 121, 168)!important;
+    display: list-item;
+}
+
+#basico {
+    color: black;
+}
+
+#intermedio{
+    color: black;
+}
+
+#premium{
+    color: black;
+}
